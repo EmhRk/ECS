@@ -1,0 +1,43 @@
+2019-8-11:
+请注意AppBar右方的menu按钮和左方的scan按钮未完成
+需要一个登陆页面
+上方活动页需要一个ontap事件 (done)
+需要一个活动展览页面
+处理网络连接失败 (done)
+
+2019-8-13
+分类按钮未完成 (done)
+下方Tab的消息页可能会移除
+商品与上方广告的点击获取ID方法未经测试
+
+2019-8-15
+分类页面还没有写！采用跟淘宝一样的逻辑，把分类目录放到搜索框并搜索
+服务器响应搜索结果请求 (done)
+点击后获得商品详情页面未完成 (done)
+
+2019-8-18
+详细分类页面不进行网络连接，可以最后再写
+消息页面可以不写
+剩下一个MyPage页面（移除收藏商店）
+
+2019-8-18
+请在MyPage里面增加新增地址、注销
+在PayPage里面增加新增地址
+type;id;newAddresses
+
+到getMyPage（unfinished）
+login request changed
+
+mainpage,history,paypage,search,shopcartpage,wishlistpage
+
+2019-8-21
+一定要把server-mysql弄完。
+price 前面带￥
+historyTyoe is subtype
+移除评论页
+
+购物车记录数量、id以及类型
+id#num#typeselected
+
+2019-8-24
+改善先加载主页再登陆成功的情况
