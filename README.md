@@ -1,3 +1,3 @@
 # ECS
-Code of Database course design project  
-Nothing valuable inside. Just a backup here
+Code of Database School project.  
+The Front-end was developed with Flutter(Dart), and the Back-end was develop with Golang.  
